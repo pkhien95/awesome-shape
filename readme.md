@@ -3,7 +3,7 @@
 
 
 ## 2. Install pods
-`npx pod install`
+`npx pod-install`
 
 
 ## 3. Running on simulator
