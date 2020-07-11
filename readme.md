@@ -1,10 +1,10 @@
-##1. Install dependencies
+## 1. Install dependencies
 `yarn install`
 
 
-##2. Install pods
+## 2. Install pods
 `npx pod install`
 
 
-##3. Running on simulator
+## 3. Running on simulator
 `react-native run-ios`
